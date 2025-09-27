@@ -1,0 +1,37 @@
+{
+  "metrics": {
+    "accuracy": 1.0,
+    "roc_auc": null,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": [
+      [
+        1
+      ]
+    ]
+  },
+  "train_rows": 46,
+  "test_rows": 1,
+  "feature_columns": [
+    "age",
+    "declared_income",
+    "bank_salary_estimate",
+    "normalized_income",
+    "avg_monthly_expense",
+    "total_assets",
+    "total_liabilities",
+    "per_capita_income",
+    "wealth_index",
+    "debt_to_income_ratio",
+    "confidence_score",
+    "mismatch_pct",
+    "credit_score",
+    "loan_count",
+    "family_size",
+    "income_source",
+    "risk_band",
+    "gender"
+  ],
+  "timestamp": "2025-09-27T14:24:06.129256"
+}

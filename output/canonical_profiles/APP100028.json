@@ -1,0 +1,57 @@
+{
+  "applicant_id": "APP100028",
+  "name": "Diya Mishra",
+  "dob": "2004-05-09",
+  "gender": "Male",
+  "family_size": 2,
+  "declared_income": 89136,
+  "bank_salary_estimate": null,
+  "normalized_income": 89136,
+  "income_source": "declared",
+  "bank_confidence": 0.25,
+  "llm_confidence": 0,
+  "avg_monthly_expense": 0,
+  "total_assets": null,
+  "total_liabilities": 21730,
+  "debt_to_income_ratio": 0.244,
+  "credit_score": 413,
+  "loan_count": 4,
+  "default_flag": true,
+  "mismatch_pct": 0.0,
+  "source_evidence": {
+    "bank_lines": [],
+    "id_ocr": "",
+    "credit_json": {
+      "applicant_id": "APP100028",
+      "credit_score": 413,
+      "outstanding_loans": 4,
+      "total_debt": 21730,
+      "remarks": "No major defaults"
+    }
+  },
+  "llm_notes": [
+    {
+      "bank_salary_estimate": null,
+      "salary_candidates": [],
+      "salary_lines": [],
+      "id_ocr_snippet": "",
+      "credit_report": {
+        "applicant_id": "APP100028",
+        "credit_score": 413,
+        "outstanding_loans": 4,
+        "total_debt": 21730,
+        "remarks": "No major defaults"
+      }
+    }
+  ],
+  "llm_raw": " {\n  \"name\": \"Diya Mishra\",\n  \"dob\": \"2004-05-09\",\n  \"suggested_income\": null,\n  \"source\": \"declared\",\n  \"confidence\": null,\n  \"evidence\": [\n    {\n      \"bank_salary_estimate\": null,\n      \"salary_candidates\": [],\n      \"salary_lines\": [],\n      \"id_ocr_snippet\": \"\",\n      \"credit_report\": {\n        \"applicant_id\": \"APP100028\",\n        \"credit_score\": 413,\n        \"outstanding_loans\": 4,\n        \"total_debt\": 21730,\n        \"remarks\": \"No major defaults\"\n      }\n    }\n  ]\n}",
+  "created_at": "2025-09-27T08:50:49.785474",
+  "updated_at": "2025-09-27T08:50:49.785492",
+  "per_capita_income": 89136.0,
+  "wealth_index": -21730.0,
+  "risk_band": "high",
+  "mismatch_flag": false,
+  "confidence_score": 0.3,
+  "validation_status": "needs_review",
+  "profile_summary": "Diya Mishra, 21 yrs. Declared ₹89136. Credit score 413. Risk high."
+}

@@ -1,0 +1,57 @@
+{
+  "applicant_id": "APP100048",
+  "name": "Vivaan Nair",
+  "dob": "1982-08-21",
+  "gender": "Female",
+  "family_size": 1,
+  "declared_income": 61601,
+  "bank_salary_estimate": null,
+  "normalized_income": 61601,
+  "income_source": "declared",
+  "bank_confidence": 0.25,
+  "llm_confidence": 0,
+  "avg_monthly_expense": 0,
+  "total_assets": null,
+  "total_liabilities": 37238,
+  "debt_to_income_ratio": 0.605,
+  "credit_score": 668,
+  "loan_count": 0,
+  "default_flag": false,
+  "mismatch_pct": 0.0,
+  "source_evidence": {
+    "bank_lines": [],
+    "id_ocr": "",
+    "credit_json": {
+      "applicant_id": "APP100048",
+      "credit_score": 668,
+      "outstanding_loans": 0,
+      "total_debt": 37238,
+      "remarks": "Late payments noted"
+    }
+  },
+  "llm_notes": [
+    {
+      "bank_salary_estimate": null,
+      "salary_candidates": [],
+      "salary_lines": [],
+      "id_ocr_snippet": "",
+      "credit_report": {
+        "applicant_id": "APP100048",
+        "credit_score": 668,
+        "outstanding_loans": 0,
+        "total_debt": 37238,
+        "remarks": "Late payments noted"
+      }
+    }
+  ],
+  "llm_raw": " {\n  \"name\": \"Vivaan Nair\",\n  \"dob\": \"1982-08-21\",\n  \"suggested_income\": null,\n  \"source\": \"declared\",\n  \"confidence\": null,\n  \"evidence\": [\n    {\n      \"bank_salary_estimate\": null,\n      \"salary_candidates\": [],\n      \"salary_lines\": [],\n      \"id_ocr_snippet\": \"\",\n      \"credit_report\": {\n        \"applicant_id\": \"APP100048\",\n        \"credit_score\": 668,\n        \"outstanding_loans\": 0,\n        \"total_debt\": 37238,\n        \"remarks\": \"Late payments noted\"\n      }\n    }\n  ]\n}",
+  "created_at": "2025-09-27T08:53:51.707619",
+  "updated_at": "2025-09-27T08:53:51.707655",
+  "per_capita_income": 61601.0,
+  "wealth_index": -37238.0,
+  "risk_band": "medium",
+  "mismatch_flag": false,
+  "confidence_score": 0.43,
+  "validation_status": "needs_review",
+  "profile_summary": "Vivaan Nair, 43 yrs. Declared ₹61601. Credit score 668. Risk medium."
+}

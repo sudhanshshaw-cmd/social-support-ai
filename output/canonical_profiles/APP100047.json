@@ -1,0 +1,51 @@
+{
+  "applicant_id": "APP100047",
+  "name": "Vivaan Mishra",
+  "dob": "1989-10-03",
+  "gender": "Other",
+  "family_size": 3,
+  "declared_income": 120470,
+  "bank_salary_estimate": null,
+  "normalized_income": 120470,
+  "income_source": "declared",
+  "bank_confidence": 0.25,
+  "llm_confidence": 0,
+  "avg_monthly_expense": 0,
+  "total_assets": null,
+  "total_liabilities": 34109,
+  "debt_to_income_ratio": 0.283,
+  "credit_score": 448,
+  "loan_count": 1,
+  "default_flag": true,
+  "mismatch_pct": 0.0,
+  "source_evidence": {
+    "bank_lines": [],
+    "id_ocr": "",
+    "credit_json": {
+      "applicant_id": "APP100047",
+      "credit_score": 448,
+      "outstanding_loans": 1,
+      "total_debt": 34109,
+      "remarks": "No major defaults"
+    }
+  },
+  "llm_notes": [
+    {
+      "applicant_id": "APP100047",
+      "credit_score": 448,
+      "outstanding_loans": 1,
+      "total_debt": 34109,
+      "remarks": "No major defaults"
+    }
+  ],
+  "llm_raw": " {\n  \"name\": \"Vivaan Mishra\",\n  \"dob\": \"1989-10-03\",\n  \"suggested_income\": 120470,\n  \"source\": \"unknown\",\n  \"confidence\": null,\n  \"evidence\": [\n    {\n      \"applicant_id\": \"APP100047\",\n      \"credit_score\": 448,\n      \"outstanding_loans\": 1,\n      \"total_debt\": 34109,\n      \"remarks\": \"No major defaults\"\n    }\n  ]\n}",
+  "created_at": "2025-09-27T08:53:42.680534",
+  "updated_at": "2025-09-27T08:53:42.680556",
+  "per_capita_income": 120470.0,
+  "wealth_index": -34109.0,
+  "risk_band": "high",
+  "mismatch_flag": false,
+  "confidence_score": 0.3,
+  "validation_status": "needs_review",
+  "profile_summary": "Vivaan Mishra, 35 yrs. Declared ₹120470. Credit score 448. Risk high."
+}

@@ -1,0 +1,121 @@
+applicant_id,decision,reason,recommendation,inconsistency_flag
+APP100000,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100001,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100002,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100003,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100004,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100005,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100006,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100007,Declined,Income above threshold,No financial support; enablement recommended,True
+APP100008,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100009,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100010,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100011,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100012,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100013,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100014,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100015,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100016,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100017,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100018,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100019,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100020,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100021,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100022,Approved,Borderline income,Career counseling / Short-term stipend,True
+APP100023,Approved,Borderline income,Career counseling / Short-term stipend,False
+APP100024,Needs Review,Borderline income,Career counseling / Short-term stipend,False
+APP100025,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100026,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100027,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100028,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100029,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100030,Needs Review,Borderline income,Career counseling / Short-term stipend,False
+APP100031,Needs Review,Borderline income,Career counseling / Short-term stipend,False
+APP100032,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100033,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100034,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100035,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100036,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100037,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100038,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100039,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100040,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100041,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100042,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100043,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100044,Approved,Borderline income,Career counseling / Short-term stipend,False
+APP100045,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100046,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100047,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100048,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100049,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100050,Approved,Borderline income,Career counseling / Short-term stipend,True
+APP100051,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100052,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100053,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100054,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100055,Needs Review,Borderline income,Career counseling / Short-term stipend,False
+APP100056,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100057,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100058,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100059,Approved,Borderline income,Career counseling / Short-term stipend,False
+APP100060,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100061,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100062,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100063,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100064,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100065,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100066,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100067,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100068,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100069,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100070,Approved,Borderline income,Career counseling / Short-term stipend,False
+APP100071,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100072,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100073,Approved,Borderline income,Career counseling / Short-term stipend,True
+APP100074,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100075,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100076,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100077,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100078,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100079,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100080,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100081,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100082,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100083,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100084,Approved,Borderline income,Career counseling / Short-term stipend,False
+APP100085,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100086,Needs Review,Borderline income,Career counseling / Short-term stipend,False
+APP100087,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100088,Approved,Borderline income,Career counseling / Short-term stipend,False
+APP100089,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100090,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100091,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100092,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100093,Needs Review,Borderline income,Career counseling / Short-term stipend,False
+APP100094,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100095,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100096,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100097,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100098,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100099,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100100,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100101,Approved,Borderline income,Career counseling / Short-term stipend,False
+APP100102,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100103,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100104,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100105,Approved,Borderline income,Career counseling / Short-term stipend,False
+APP100106,Approved,Borderline income,Career counseling / Short-term stipend,False
+APP100107,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100108,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100109,Approved,Borderline income,Career counseling / Short-term stipend,False
+APP100110,Needs Review,Borderline income,Career counseling / Short-term stipend,False
+APP100111,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100112,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100113,Needs Review,Borderline income,Career counseling / Short-term stipend,False
+APP100114,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100115,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100116,Approved,Low per-capita income,Upskilling program / Job placement,False
+APP100117,Approved,Borderline income,Career counseling / Short-term stipend,False
+APP100118,Declined,Income above threshold,No financial support; enablement recommended,False
+APP100119,Declined,Income above threshold,No financial support; enablement recommended,False

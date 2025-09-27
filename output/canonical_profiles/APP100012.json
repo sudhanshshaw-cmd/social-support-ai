@@ -1,0 +1,57 @@
+{
+  "applicant_id": "APP100012",
+  "name": "Aisha Bose",
+  "dob": "1992-07-23",
+  "gender": "Male",
+  "family_size": 4,
+  "declared_income": 132685,
+  "bank_salary_estimate": null,
+  "normalized_income": 132685,
+  "income_source": "declared",
+  "bank_confidence": 0.25,
+  "llm_confidence": 0,
+  "avg_monthly_expense": 0,
+  "total_assets": null,
+  "total_liabilities": 149631,
+  "debt_to_income_ratio": 1.128,
+  "credit_score": 602,
+  "loan_count": 2,
+  "default_flag": true,
+  "mismatch_pct": 0.0,
+  "source_evidence": {
+    "bank_lines": [],
+    "id_ocr": "",
+    "credit_json": {
+      "applicant_id": "APP100012",
+      "credit_score": 602,
+      "outstanding_loans": 2,
+      "total_debt": 149631,
+      "remarks": "No major defaults"
+    }
+  },
+  "llm_notes": [
+    {
+      "bank_salary_estimate": null,
+      "salary_candidates": [],
+      "salary_lines": [],
+      "id_ocr_snippet": "",
+      "credit_report": {
+        "applicant_id": "APP100012",
+        "credit_score": 602,
+        "outstanding_loans": 2,
+        "total_debt": 149631,
+        "remarks": "No major defaults"
+      }
+    }
+  ],
+  "llm_raw": " {\n  \"name\": \"Aisha Bose\",\n  \"dob\": \"1992-07-23\",\n  \"suggested_income\": null,\n  \"source\": \"unknown\",\n  \"confidence\": null,\n  \"evidence\": [\n    {\n      \"bank_salary_estimate\": null,\n      \"salary_candidates\": [],\n      \"salary_lines\": [],\n      \"id_ocr_snippet\": \"\",\n      \"credit_report\": {\n        \"applicant_id\": \"APP100012\",\n        \"credit_score\": 602,\n        \"outstanding_loans\": 2,\n        \"total_debt\": 149631,\n        \"remarks\": \"No major defaults\"\n      }\n    }\n  ]\n}",
+  "created_at": "2025-09-27T08:48:24.849395",
+  "updated_at": "2025-09-27T08:48:24.849408",
+  "per_capita_income": 132685.0,
+  "wealth_index": -149631.0,
+  "risk_band": "medium",
+  "mismatch_flag": false,
+  "confidence_score": 0.35,
+  "validation_status": "needs_review",
+  "profile_summary": "Aisha Bose, 33 yrs. Declared ₹132685. Credit score 602. Risk medium."
+}

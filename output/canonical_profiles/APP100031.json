@@ -1,0 +1,57 @@
+{
+  "applicant_id": "APP100031",
+  "name": "Diya Banerjee",
+  "dob": "1979-03-04",
+  "gender": "Other",
+  "family_size": 5,
+  "declared_income": 51750,
+  "bank_salary_estimate": null,
+  "normalized_income": 51750,
+  "income_source": "declared",
+  "bank_confidence": 0.25,
+  "llm_confidence": 0,
+  "avg_monthly_expense": 0,
+  "total_assets": null,
+  "total_liabilities": 48409,
+  "debt_to_income_ratio": 0.935,
+  "credit_score": 581,
+  "loan_count": 3,
+  "default_flag": true,
+  "mismatch_pct": 0.0,
+  "source_evidence": {
+    "bank_lines": [],
+    "id_ocr": "",
+    "credit_json": {
+      "applicant_id": "APP100031",
+      "credit_score": 581,
+      "outstanding_loans": 3,
+      "total_debt": 48409,
+      "remarks": "No major defaults"
+    }
+  },
+  "llm_notes": [
+    {
+      "bank_salary_estimate": null,
+      "salary_candidates": [],
+      "salary_lines": [],
+      "id_ocr_snippet": "",
+      "credit_report": {
+        "applicant_id": "APP100031",
+        "credit_score": 581,
+        "outstanding_loans": 3,
+        "total_debt": 48409,
+        "remarks": "No major defaults"
+      }
+    }
+  ],
+  "llm_raw": " {\n  \"name\": \"Diya Banerjee\",\n  \"dob\": \"1979-03-04\",\n  \"suggested_income\": null,\n  \"source\": \"unknown\",\n  \"confidence\": null,\n  \"evidence\": [\n    {\n      \"bank_salary_estimate\": null,\n      \"salary_candidates\": [],\n      \"salary_lines\": [],\n      \"id_ocr_snippet\": \"\",\n      \"credit_report\": {\n        \"applicant_id\": \"APP100031\",\n        \"credit_score\": 581,\n        \"outstanding_loans\": 3,\n        \"total_debt\": 48409,\n        \"remarks\": \"No major defaults\"\n      }\n    }\n  ]\n}",
+  "created_at": "2025-09-27T08:51:19.715842",
+  "updated_at": "2025-09-27T08:51:19.715856",
+  "per_capita_income": 51750.0,
+  "wealth_index": -48409.0,
+  "risk_band": "medium",
+  "mismatch_flag": false,
+  "confidence_score": 0.35,
+  "validation_status": "needs_review",
+  "profile_summary": "Diya Banerjee, 46 yrs. Declared ₹51750. Credit score 581. Risk medium."
+}

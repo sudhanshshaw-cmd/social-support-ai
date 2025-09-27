@@ -1,0 +1,57 @@
+{
+  "applicant_id": "APP100043",
+  "name": "Myra Mehta",
+  "dob": "1996-08-07",
+  "gender": "Other",
+  "family_size": 4,
+  "declared_income": null,
+  "bank_salary_estimate": null,
+  "normalized_income": null,
+  "income_source": null,
+  "bank_confidence": 0.25,
+  "llm_confidence": 0,
+  "avg_monthly_expense": 0,
+  "total_assets": null,
+  "total_liabilities": 15405,
+  "debt_to_income_ratio": null,
+  "credit_score": 871,
+  "loan_count": 5,
+  "default_flag": true,
+  "mismatch_pct": null,
+  "source_evidence": {
+    "bank_lines": [],
+    "id_ocr": "",
+    "credit_json": {
+      "applicant_id": "APP100043",
+      "credit_score": 871,
+      "outstanding_loans": 5,
+      "total_debt": 15405,
+      "remarks": "No major defaults"
+    }
+  },
+  "llm_notes": [
+    {
+      "bank_salary_estimate": null,
+      "salary_candidates": [],
+      "salary_lines": [],
+      "id_ocr_snippet": "",
+      "credit_report": {
+        "applicant_id": "APP100043",
+        "credit_score": 871,
+        "outstanding_loans": 5,
+        "total_debt": 15405,
+        "remarks": "No major defaults"
+      }
+    }
+  ],
+  "llm_raw": " {\n  \"name\": \"Myra Mehta\",\n  \"dob\": \"1996-08-07\",\n  \"suggested_income\": null,\n  \"source\": \"unknown\",\n  \"confidence\": null,\n  \"evidence\": [\n    {\n      \"bank_salary_estimate\": null,\n      \"salary_candidates\": [],\n      \"salary_lines\": [],\n      \"id_ocr_snippet\": \"\",\n      \"credit_report\": {\n        \"applicant_id\": \"APP100043\",\n        \"credit_score\": 871,\n        \"outstanding_loans\": 5,\n        \"total_debt\": 15405,\n        \"remarks\": \"No major defaults\"\n      }\n    }\n  ]\n}",
+  "created_at": "2025-09-27T08:53:08.467432",
+  "updated_at": "2025-09-27T08:53:08.467459",
+  "per_capita_income": null,
+  "wealth_index": -15405.0,
+  "risk_band": "low",
+  "mismatch_flag": false,
+  "confidence_score": 0.45,
+  "validation_status": "needs_review",
+  "profile_summary": "Myra Mehta, 29 yrs. No income evidence. Credit score 871. Risk low."
+}

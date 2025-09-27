@@ -1,0 +1,43 @@
+{
+  "applicant_id": "APP100029",
+  "name": "Arjun Mehta",
+  "dob": "2018-03-17",
+  "gender": "Other",
+  "family_size": 2,
+  "declared_income": 15157,
+  "bank_salary_estimate": null,
+  "normalized_income": 15157,
+  "income_source": "declared",
+  "bank_confidence": 0.25,
+  "llm_confidence": 0,
+  "avg_monthly_expense": 0,
+  "total_assets": null,
+  "total_liabilities": 14717,
+  "debt_to_income_ratio": 0.971,
+  "credit_score": 320,
+  "loan_count": 2,
+  "default_flag": true,
+  "mismatch_pct": 0.0,
+  "source_evidence": {
+    "bank_lines": [],
+    "id_ocr": "",
+    "credit_json": {
+      "applicant_id": "APP100029",
+      "credit_score": 320,
+      "outstanding_loans": 2,
+      "total_debt": 14717,
+      "remarks": "No major defaults"
+    }
+  },
+  "llm_notes": null,
+  "llm_raw": " {\n  \"name\": \"Arjun Mehta\",\n  \"dob\": \"2018-03-17\",\n  \"suggested_income\": null,\n  \"source\": \"unknown\",\n  \"confidence\": null,\n  \"evidence\": []\n  \"applicant_id\": \"APP100029\",\n  \"gender\": \"Other\",\n  \"nationality\": \"Sri Lankan\",\n  \"address\": \"610 Station Road, Hyderabad, PIN-739552\",\n  \"phone\": \"+917385570227\",\n  \"family_size\": \"2\",\n  \"monthly_income\": null,\n  \"liabilities\": \"14717\",\n  \"employment_status\": \"Self-Employed\",\n  \"credit_report\": {\n    \"applicant_id\": \"APP100029\",\n    \"credit_score\": 320,\n    \"outstanding_loans\": 2,\n    \"total_debt\": 14717,\n    \"remarks\": \"No major defaults\"\n  }\n}",
+  "created_at": "2025-09-27T08:51:01.799947",
+  "updated_at": "2025-09-27T08:51:01.799958",
+  "per_capita_income": 15157.0,
+  "wealth_index": -14717.0,
+  "risk_band": "high",
+  "mismatch_flag": false,
+  "confidence_score": 0.3,
+  "validation_status": "needs_review",
+  "profile_summary": "Arjun Mehta, 7 yrs. Declared ₹15157. Credit score 320. Risk high."
+}

@@ -1,0 +1,2 @@
+applicant_id,dob,created_at,updated_at,age,declared_income,bank_salary_estimate,normalized_income,avg_monthly_expense,total_assets,total_liabilities,per_capita_income,wealth_index,debt_to_income_ratio,confidence_score,mismatch_pct,credit_score,loan_count,family_size,income_source,risk_band,gender
+APP100049,1988-01-25,2025-09-27T08:54:00.822423,2025-09-27T08:54:01.890766,37,12496.0,,12496.0,0,,5774,,,0.462,0.3,0.0,400,4,,declared,,

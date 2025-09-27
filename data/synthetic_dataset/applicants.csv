@@ -1,0 +1,121 @@
+applicant_id,name,dob,gender,nationality,address,phone,family_size,monthly_income,liabilities,employment_status
+APP100000,Aditya Shaw,1979-09-04,Male,Nepalese,"152 Station Road, Jaipur, PIN-711395",+918536146025,3,0,7164,Unemployed
+APP100001,Saanvi Singh,2003-05-23,Other,Indian,"623 BBD Bagh, Ahmedabad, PIN-702552",+916480468219,5,100307,36451,Salaried
+APP100002,Krishna Bose,1998-10-30,Female,Indian,"104 Camac Street, Chennai, PIN-705778",+916015228622,3,12291,3413,Self-Employed
+APP100003,Ira Joshi,2004-09-26,Male,Nepalese,"440 Camac Street, Delhi, PIN-780676",+918444288473,3,20027,8696,Salaried
+APP100004,Aadhya Kapoor,1962-05-07,Female,Indian,"777 Ballygunge, Kolkata, PIN-745870",+916963026855,4,145427,20982,Salaried
+APP100005,Ishaan Agarwal,1974-01-11,Female,Bangladeshi,"358 Sector 2, Lucknow, PIN-791905",+919780032269,3,0,6260,Unemployed
+APP100006,Sofia Joshi,1994-05-26,Male,Sri Lankan,"715 Sector 2, Pune, PIN-735683",+918149511642,3,59193,8514,Self-Employed
+APP100007,Rohan Bose,2007-12-13,Female,Indian,"905 Esplanade, Mumbai, PIN-768937",+919910317247,3,113737,120336,Salaried
+APP100008,Rohan Mukherjee,2011-04-17,Other,Indian,"326 Esplanade, Kolkata, PIN-775965",+917567067057,4,0,9670,Unemployed
+APP100009,Rohan Iyer,1973-05-30,Male,Nepalese,"610 Salt Lake, Bengaluru, PIN-743064",+919325887726,2,60372,24450,Salaried
+APP100010,Ananya Singh,1988-03-13,Female,Bangladeshi,"805 Howrah Bridge, Lucknow, PIN-711135",+919793925798,2,18122,2804,Salaried
+APP100011,Diya Bose,2001-11-24,Other,Nepalese,"382 BBD Bagh, Chennai, PIN-750779",+917755651176,4,23432,22685,Informal
+APP100012,Aisha Bose,1992-07-23,Male,Nepalese,"830 Howrah Bridge, Delhi, PIN-732768",+916224110541,4,132685,149631,Informal
+APP100013,Aadhya Singh,2016-11-18,Female,Bangladeshi,"467 MG Road, Hyderabad, PIN-780589",+917868055235,3,67519,12325,Informal
+APP100014,Ishaan Banerjee,2018-08-21,Male,Bangladeshi,"980 Ballygunge, Chennai, PIN-710336",+917076341629,2,95973,22811,Self-Employed
+APP100015,Vihaan Verma,1965-12-28,Female,Sri Lankan,"263 Park Street, Mumbai, PIN-706632",+917246451043,5,114806,42833,Salaried
+APP100016,Vihaan Khan,1959-07-22,Other,Nepalese,"663 Salt Lake, Kolkata, PIN-713133",+917775115854,3,29010,3066,Informal
+APP100017,Vihaan Shaw,1978-05-25,Female,Nepalese,"467 Sector 2, Hyderabad, PIN-739576",+918501649877,4,0,11781,Unemployed
+APP100018,Sofia Agarwal,1963-02-27,Other,Sri Lankan,"838 MG Road, Ahmedabad, PIN-717294",+918204382691,3,56622,34461,Self-Employed
+APP100019,Kavya Agarwal,1959-03-17,Female,Sri Lankan,"814 Ballygunge, Hyderabad, PIN-791266",+917788100692,3,11012,10239,Self-Employed
+APP100020,Sofia Nair,1981-06-25,Male,Nepalese,"347 Salt Lake, Pune, PIN-774683",+919579265601,2,42123,16135,Self-Employed
+APP100021,Diya Agarwal,1975-06-20,Female,Sri Lankan,"452 Park Street, Lucknow, PIN-786595",+917632399901,2,36152,31973,Salaried
+APP100022,Vihaan Kapoor,2014-02-03,Male,Sri Lankan,"818 Camac Street, Mumbai, PIN-758860",+918568106346,3,53202,59365,Informal
+APP100023,Maya Roy,1987-03-18,Male,Sri Lankan,"149 Salt Lake, Pune, PIN-773607",+918170839755,4,52226,29099,Self-Employed
+APP100024,Vivaan Iyer,1986-06-22,Other,Bangladeshi,"621 Ballygunge, Delhi, PIN-742421",+919023887882,3,53713,63598,Informal
+APP100025,Maya Joshi,2016-12-11,Male,Bangladeshi,"220 Ballygunge, Lucknow, PIN-766784",+916810230640,4,8894,8557,Salaried
+APP100026,Maya Roy,1982-09-30,Other,Nepalese,"132 MG Road, Delhi, PIN-791946",+916048750473,2,128552,85994,Informal
+APP100027,Aarav Banerjee,1955-02-17,Other,Sri Lankan,"879 Sector 2, Mumbai, PIN-726895",+918275535874,6,23926,27988,Salaried
+APP100028,Diya Mishra,2004-05-09,Male,Indian,"483 Station Road, Delhi, PIN-715919",+916051354601,2,89136,21730,Self-Employed
+APP100029,Arjun Mehta,2018-03-17,Other,Sri Lankan,"610 Station Road, Hyderabad, PIN-739552",+917385570227,2,15157,14717,Self-Employed
+APP100030,Aditya Gupta,1985-08-31,Male,Sri Lankan,"174 Station Road, Jaipur, PIN-712203",+917451486688,4,51637,45180,Self-Employed
+APP100031,Diya Banerjee,1979-03-04,Other,Sri Lankan,"629 Station Road, Bengaluru, PIN-757896",+916907915284,5,51750,48409,Self-Employed
+APP100032,Saanvi Verma,1977-08-10,Male,Sri Lankan,"319 Ballygunge, Lucknow, PIN-752055",+918510353238,2,44526,31951,Informal
+APP100033,Sofia Verma,1967-11-07,Female,Nepalese,"807 Station Road, Ahmedabad, PIN-743598",+918710265109,6,23802,2503,Self-Employed
+APP100034,Ananya Nair,1965-05-25,Male,Indian,"19 Park Street, Delhi, PIN-743078",+917535568489,5,95168,101479,Salaried
+APP100035,Ananya Mishra,2010-08-08,Other,Sri Lankan,"743 BBD Bagh, Ahmedabad, PIN-714945",+916418488804,4,13592,6668,Informal
+APP100036,Aditya Mehta,2005-06-11,Female,Sri Lankan,"700 Ballygunge, Chennai, PIN-755363",+919471642620,1,0,12480,Unemployed
+APP100037,Aditya Singh,2003-04-07,Other,Indian,"651 Station Road, Bengaluru, PIN-787862",+918703744107,4,115602,117825,Salaried
+APP100038,Sofia Iyer,1991-05-07,Other,Nepalese,"938 MG Road, Jaipur, PIN-734159",+918334182974,5,29741,14941,Salaried
+APP100039,Maya Desai,1958-07-03,Other,Indian,"105 Esplanade, Delhi, PIN-779098",+918316215674,5,148941,121261,Informal
+APP100040,Diya Verma,2007-08-25,Male,Sri Lankan,"129 Sector 2, Mumbai, PIN-750157",+918721556673,4,19488,6877,Self-Employed
+APP100041,Saanvi Mehta,1990-12-09,Female,Sri Lankan,"194 Howrah Bridge, Delhi, PIN-775483",+918946398734,2,0,8845,Unemployed
+APP100042,Ananya Agarwal,1996-11-29,Other,Bangladeshi,"571 Esplanade, Delhi, PIN-791438",+918316222488,2,56962,32951,Informal
+APP100043,Myra Mehta,1996-08-07,Other,Indian,"348 Station Road, Delhi, PIN-707345",+917144624141,4,0,15405,Unemployed
+APP100044,Aadhya Mehta,2018-07-22,Male,Bangladeshi,"551 MG Road, Mumbai, PIN-739833",+916334729865,5,72730,15371,Salaried
+APP100045,Vivaan Mishra,1990-10-24,Female,Indian,"418 Ballygunge, Pune, PIN-791471",+916559957102,4,32984,20999,Informal
+APP100046,Ananya Reddy,2013-12-08,Male,Indian,"757 Camac Street, Jaipur, PIN-788866",+918630445805,5,47351,17254,Salaried
+APP100047,Vivaan Mishra,1989-10-03,Other,Indian,"204 Sector 2, Ahmedabad, PIN-752171",+919798458667,3,120470,34109,Self-Employed
+APP100048,Vivaan Nair,1982-08-21,Female,Sri Lankan,"305 Park Street, Mumbai, PIN-717245",+916871241447,1,61601,37238,Self-Employed
+APP100049,Shaurya Banerjee,1988-01-25,Female,Indian,"786 Camac Street, Jaipur, PIN-708509",+917257706935,3,12496,5774,Self-Employed
+APP100050,Rohan Patel,2020-01-02,Male,Sri Lankan,"406 Ballygunge, Mumbai, PIN-700538",+917335654591,5,58948,62429,Self-Employed
+APP100051,Ishaan Joshi,1991-05-29,Male,Indian,"711 Howrah Bridge, Pune, PIN-742914",+918122981496,4,0,7130,Unemployed
+APP100052,Ishaan Iyer,1968-07-23,Other,Sri Lankan,"388 Park Street, Chennai, PIN-791851",+917014453592,3,64338,30697,Salaried
+APP100053,Krishna Verma,1956-09-06,Female,Nepalese,"678 MG Road, Kolkata, PIN-787111",+917677115255,3,111293,81478,Informal
+APP100054,Myra Desai,1962-11-24,Other,Bangladeshi,"366 Camac Street, Kolkata, PIN-773100",+917012061834,2,72542,56641,Informal
+APP100055,Sofia Chatterjee,2006-06-21,Male,Sri Lankan,"55 MG Road, Ahmedabad, PIN-796138",+919301139304,3,45843,28752,Informal
+APP100056,Aisha Nair,1979-11-12,Male,Indian,"391 BBD Bagh, Ahmedabad, PIN-763730",+918153711762,3,19629,13447,Informal
+APP100057,Sofia Chatterjee,2005-09-16,Other,Sri Lankan,"356 Station Road, Ahmedabad, PIN-705253",+916598818493,4,0,812,Unemployed
+APP100058,Rohan Shaw,1967-04-15,Other,Bangladeshi,"391 Esplanade, Pune, PIN-744605",+919955267061,5,0,5064,Unemployed
+APP100059,Ira Mukherjee,1975-11-22,Female,Sri Lankan,"295 Howrah Bridge, Lucknow, PIN-735779",+919248296389,4,46230,22731,Informal
+APP100060,Ishaan Shaw,2003-04-21,Female,Indian,"481 Camac Street, Lucknow, PIN-767470",+919871525815,3,0,15391,Unemployed
+APP100061,Ishaan Kapoor,2016-08-14,Other,Nepalese,"425 Salt Lake, Mumbai, PIN-719655",+916824272995,1,100704,61487,Informal
+APP100062,Ananya Nair,1958-01-15,Female,Indian,"852 Esplanade, Ahmedabad, PIN-796592",+917773655347,5,47681,50753,Salaried
+APP100063,Ananya Verma,1966-11-01,Male,Bangladeshi,"737 Ballygunge, Pune, PIN-718585",+917118435301,2,0,4190,Unemployed
+APP100064,Myra Joshi,1968-05-01,Male,Bangladeshi,"871 Salt Lake, Jaipur, PIN-756063",+917269083941,4,22956,15260,Informal
+APP100065,Kabir Shaw,1973-10-09,Female,Nepalese,"675 Salt Lake, Pune, PIN-782058",+919685895219,4,12930,12240,Salaried
+APP100066,Kabir Agarwal,1985-11-06,Female,Nepalese,"529 Salt Lake, Lucknow, PIN-789780",+917456651026,5,146109,89902,Self-Employed
+APP100067,Aadhya Mehta,2011-06-21,Other,Nepalese,"165 Ballygunge, Pune, PIN-729908",+916592681126,5,46825,50939,Informal
+APP100068,Sofia Chatterjee,2019-02-01,Female,Nepalese,"117 BBD Bagh, Jaipur, PIN-776332",+916827018550,5,26422,6901,Self-Employed
+APP100069,Aarav Chatterjee,1967-10-02,Other,Sri Lankan,"59 Sector 2, Chennai, PIN-728256",+916786310279,5,28017,19676,Salaried
+APP100070,Maya Iyer,1976-03-20,Female,Sri Lankan,"982 Station Road, Chennai, PIN-707947",+917367244618,3,51731,6817,Informal
+APP100071,Myra Reddy,2003-04-12,Male,Indian,"561 MG Road, Ahmedabad, PIN-788112",+916530065933,3,138816,68542,Salaried
+APP100072,Aisha Kapoor,1986-11-19,Female,Sri Lankan,"752 Howrah Bridge, Ahmedabad, PIN-724369",+917044331936,2,0,4183,Unemployed
+APP100073,Aisha Desai,1993-11-29,Other,Indian,"131 Park Street, Delhi, PIN-724856",+916823264888,3,40838,31016,Informal
+APP100074,Aarav Singh,1994-08-17,Male,Bangladeshi,"670 Station Road, Hyderabad, PIN-710802",+917264944407,5,25123,24230,Salaried
+APP100075,Ira Mishra,1981-11-18,Female,Indian,"591 MG Road, Delhi, PIN-720144",+917418415203,4,139671,102136,Self-Employed
+APP100076,Myra Verma,1996-07-05,Other,Indian,"764 Station Road, Chennai, PIN-784711",+919783840727,5,39494,20939,Salaried
+APP100077,Aarav Kapoor,1968-10-08,Female,Bangladeshi,"192 Salt Lake, Kolkata, PIN-788479",+918286205964,2,54268,43691,Informal
+APP100078,Kabir Nair,1982-01-19,Other,Sri Lankan,"114 Ballygunge, Lucknow, PIN-722473",+917082074708,6,45466,38450,Informal
+APP100079,Arjun Patel,1959-09-04,Other,Nepalese,"970 Salt Lake, Delhi, PIN-712027",+916745931969,4,86788,31238,Salaried
+APP100080,Arjun Mukherjee,2012-01-28,Other,Bangladeshi,"843 Park Street, Chennai, PIN-798137",+916899905381,5,40192,4303,Salaried
+APP100081,Aarav Iyer,1958-10-03,Male,Nepalese,"544 MG Road, Pune, PIN-779034",+918233701335,6,123692,76757,Self-Employed
+APP100082,Aditya Chatterjee,2002-12-15,Other,Sri Lankan,"102 BBD Bagh, Bengaluru, PIN-775493",+919291393992,5,0,11246,Unemployed
+APP100083,Ira Agarwal,1982-02-26,Other,Nepalese,"678 Camac Street, Mumbai, PIN-760774",+919714699115,5,49172,24785,Salaried
+APP100084,Aarav Khan,1981-12-20,Male,Bangladeshi,"684 Ballygunge, Ahmedabad, PIN-718331",+918478503075,3,43077,33030,Informal
+APP100085,Kavya Mehta,1976-11-28,Other,Indian,"631 Esplanade, Delhi, PIN-788410",+919995115701,5,34751,10157,Self-Employed
+APP100086,Aadhya Desai,1955-09-21,Female,Sri Lankan,"306 Sector 2, Ahmedabad, PIN-710828",+919268040173,3,53505,16348,Self-Employed
+APP100087,Krishna Patel,1971-07-07,Male,Nepalese,"595 Salt Lake, Lucknow, PIN-791320",+916038059076,5,119696,78305,Informal
+APP100088,Ishaan Reddy,2016-08-31,Other,Nepalese,"81 Park Street, Mumbai, PIN-755888",+917053357198,3,46379,9751,Informal
+APP100089,Aadhya Reddy,1968-03-22,Female,Bangladeshi,"241 Camac Street, Mumbai, PIN-764463",+916728250595,6,12617,6220,Informal
+APP100090,Rohan Reddy,1957-05-13,Other,Sri Lankan,"390 MG Road, Mumbai, PIN-786867",+918497983389,2,80733,10753,Self-Employed
+APP100091,Aditya Gupta,1974-01-04,Other,Indian,"784 Sector 2, Bengaluru, PIN-772311",+916866406208,4,0,8820,Unemployed
+APP100092,Vivaan Khan,2017-10-11,Other,Indian,"168 Station Road, Chennai, PIN-749259",+916679488767,4,89236,47031,Self-Employed
+APP100093,Myra Banerjee,1965-03-11,Other,Sri Lankan,"279 Ballygunge, Kolkata, PIN-759055",+919575606753,5,57905,11997,Salaried
+APP100094,Rohan Shaw,2012-04-09,Other,Indian,"123 Esplanade, Lucknow, PIN-716080",+916459890737,2,10959,2214,Self-Employed
+APP100095,Ira Roy,2002-11-10,Other,Indian,"355 MG Road, Mumbai, PIN-761589",+916408536494,5,39727,15975,Self-Employed
+APP100096,Aditya Khan,1956-06-27,Female,Nepalese,"283 MG Road, Ahmedabad, PIN-786754",+918280135461,3,17016,3275,Self-Employed
+APP100097,Rohan Mukherjee,1963-12-21,Female,Bangladeshi,"473 Esplanade, Hyderabad, PIN-771527",+917105264780,4,15516,1783,Self-Employed
+APP100098,Shaurya Khan,1957-11-19,Female,Bangladeshi,"264 Camac Street, Pune, PIN-752312",+919883349761,2,12948,9798,Salaried
+APP100099,Sofia Joshi,1958-01-21,Other,Sri Lankan,"53 BBD Bagh, Delhi, PIN-761329",+919789983029,4,10593,5227,Informal
+APP100100,Ananya Roy,1976-02-20,Female,Indian,"834 Howrah Bridge, Lucknow, PIN-792155",+919586312525,4,0,2318,Unemployed
+APP100101,Ira Agarwal,1956-09-09,Female,Sri Lankan,"464 MG Road, Bengaluru, PIN-726965",+917629196971,2,23425,19359,Salaried
+APP100102,Diya Roy,1987-03-08,Female,Nepalese,"428 MG Road, Lucknow, PIN-710426",+917187325093,5,24198,14143,Self-Employed
+APP100103,Rohan Reddy,2013-03-30,Male,Indian,"991 Salt Lake, Lucknow, PIN-765994",+918467197767,4,130644,118409,Informal
+APP100104,Ira Banerjee,1971-01-03,Male,Indian,"843 Salt Lake, Pune, PIN-768044",+917195101396,4,26519,12784,Salaried
+APP100105,Rohan Patel,2011-12-13,Male,Nepalese,"13 Camac Street, Mumbai, PIN-764315",+918395462859,4,65088,36447,Self-Employed
+APP100106,Ira Gupta,2018-03-23,Female,Bangladeshi,"795 Ballygunge, Mumbai, PIN-785843",+916211377709,3,33005,39069,Informal
+APP100107,Sofia Mukherjee,2012-09-01,Female,Bangladeshi,"157 Station Road, Mumbai, PIN-773516",+916726947767,2,137780,51662,Salaried
+APP100108,Aadhya Mishra,1994-08-15,Female,Bangladeshi,"711 Station Road, Jaipur, PIN-757070",+918800714355,3,0,11982,Unemployed
+APP100109,Diya Kapoor,1963-04-17,Female,Bangladeshi,"602 BBD Bagh, Hyderabad, PIN-784125",+918246451454,3,31173,4376,Informal
+APP100110,Krishna Iyer,1990-12-14,Other,Indian,"177 Ballygunge, Delhi, PIN-739397",+919807897578,4,54347,17299,Informal
+APP100111,Aadhya Singh,1969-09-02,Female,Indian,"486 Station Road, Hyderabad, PIN-789923",+919146796542,2,61603,17062,Salaried
+APP100112,Arjun Nair,1965-06-12,Male,Bangladeshi,"320 Howrah Bridge, Jaipur, PIN-770668",+919668948538,4,23201,11871,Self-Employed
+APP100113,Ishaan Agarwal,2018-12-12,Male,Bangladeshi,"145 Sector 2, Mumbai, PIN-704048",+916889089448,4,59535,35007,Salaried
+APP100114,Myra Verma,2006-01-31,Other,Indian,"870 Ballygunge, Bengaluru, PIN-797173",+916869859663,3,0,3238,Unemployed
+APP100115,Aisha Agarwal,1964-03-26,Other,Bangladeshi,"959 Howrah Bridge, Bengaluru, PIN-774843",+918885733726,2,14491,13975,Salaried
+APP100116,Arjun Banerjee,2020-09-16,Female,Nepalese,"904 Park Street, Lucknow, PIN-739171",+918465689714,2,0,8035,Unemployed
+APP100117,Kabir Joshi,1969-08-25,Female,Bangladeshi,"248 Salt Lake, Hyderabad, PIN-703577",+916589751248,5,76137,77474,Self-Employed
+APP100118,Krishna Chatterjee,1984-06-03,Female,Bangladeshi,"687 Park Street, Lucknow, PIN-796522",+919653936649,1,110467,87828,Salaried
+APP100119,Kavya Chatterjee,1963-06-27,Male,Sri Lankan,"859 Station Road, Mumbai, PIN-772150",+919061003232,3,100244,59927,Informal

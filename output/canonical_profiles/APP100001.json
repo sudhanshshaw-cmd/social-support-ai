@@ -1,0 +1,93 @@
+{
+  "applicant_id": "APP100001",
+  "name": "Saanvi Singh",
+  "dob": "2003-05-23",
+  "gender": "Other",
+  "family_size": 5,
+  "declared_income": 100307,
+  "bank_salary_estimate": 202,
+  "normalized_income": 100307,
+  "income_source": "declared",
+  "bank_confidence": 0.25,
+  "llm_confidence": 0,
+  "avg_monthly_expense": 0,
+  "total_assets": null,
+  "total_liabilities": 36451,
+  "debt_to_income_ratio": 0.363,
+  "credit_score": 515,
+  "loan_count": 5,
+  "default_flag": true,
+  "mismatch_pct": 0.0,
+  "source_evidence": {
+    "bank_lines": [
+      "2025-04-08 Salary Credit 100307 5664",
+      "2025-06-19 Salary Credit 100307 39536",
+      "2025-05-26 Salary Credit 100307 111155",
+      "2025-03-14 Salary Credit 100307 207570",
+      "2025-07-07 Salary Credit 100307 241536",
+      "2025-04-17 Salary Credit 100307 306260",
+      "2024-11-24 Salary Credit 100307 378299",
+      "2025-05-12 Salary Credit 100307 339815"
+    ],
+    "id_ocr": "Goverment 1D\n\name: Saanvi. Singh\nxp: 3eP100001\n\npop: 2002-05-28\n\nAddress: 629 BED Bagh, ahmedabad, PIN-702552\n",
+    "credit_json": {
+      "applicant_id": "APP100001",
+      "credit_score": 515,
+      "outstanding_loans": 5,
+      "total_debt": 36451,
+      "remarks": "No major defaults"
+    }
+  },
+  "llm_notes": [
+    {
+      "type": "salary_estimate",
+      "value": 202
+    },
+    {
+      "type": "salary_candidates",
+      "value": [
+        202,
+        5,
+        -4,
+        -8,
+        100,
+        307
+      ]
+    },
+    {
+      "type": "salary_lines",
+      "value": [
+        "2025-04-08 Salary Credit 100307 5664",
+        "2025-06-19 Salary Credit 100307 39536",
+        "2025-05-26 Salary Credit 100307 111155",
+        "2025-03-14 Salary Credit 100307 207570",
+        "2025-07-07 Salary Credit 100307 241536",
+        "2025-04-17 Salary Credit 100307 306260"
+      ]
+    },
+    {
+      "type": "id_ocr_snippet",
+      "value": "Goverment 1D\n\name: Saanvi. Singh\nxp: 3eP100001\n\npop: 2002-05-28\n\nAddress: 629 BED Bagh, ahmedabad, PIN-702552\n"
+    },
+    {
+      "type": "credit_report",
+      "value": {
+        "applicant_id": "APP100001",
+        "credit_score": 515,
+        "outstanding_loans": 5,
+        "total_debt": 36451,
+        "remarks": "No major defaults"
+      }
+    }
+  ],
+  "llm_raw": " {\n  \"name\": \"Saanvi Singh\",\n  \"dob\": \"2003-05-23\",\n  \"suggested_income\": 100307,\n  \"source\": \"bank\",\n  \"confidence\": null,\n  \"evidence\": [\n    {\n      \"type\": \"salary_estimate\",\n      \"value\": 202\n    },\n    {\n      \"type\": \"salary_candidates\",\n      \"value\": [202, 5, -4, -8, 100, 307]\n    },\n    {\n      \"type\": \"salary_lines\",\n      \"value\": [\"2025-04-08 Salary Credit 100307 5664\", \"2025-06-19 Salary Credit 100307 39536\", \"2025-05-26 Salary Credit 100307 111155\", \"2025-03-14 Salary Credit 100307 207570\", \"2025-07-07 Salary Credit 100307 241536\", \"2025-04-17 Salary Credit 100307 306260\"]\n    },\n    {\n      \"type\": \"id_ocr_snippet\",\n      \"value\": \"Goverment 1D\\n\\name: Saanvi. Singh\\nxp: 3eP100001\\n\\npop: 2002-05-28\\n\\nAddress: 629 BED Bagh, ahmedabad, PIN-702552\\n\"\n    },\n    {\n      \"type\": \"credit_report\",\n      \"value\": {\n        \"applicant_id\": \"APP100001\",\n        \"credit_score\": 515,\n        \"outstanding_loans\": 5,\n        \"total_debt\": 36451,\n        \"remarks\": \"No major defaults\"\n      }\n    }\n  ]\n}",
+  "created_at": "2025-09-27T08:46:40.955444",
+  "updated_at": "2025-09-27T08:46:40.955459",
+  "per_capita_income": 100307.0,
+  "wealth_index": -36451.0,
+  "risk_band": "high",
+  "mismatch_flag": false,
+  "confidence_score": 0.3,
+  "validation_status": "needs_review",
+  "profile_summary": "Saanvi Singh, 22 yrs. Declared ₹100307, Bank ₹202. Credit score 515. Risk high."
+}

@@ -1,0 +1,43 @@
+{
+  "applicant_id": "APP100032",
+  "name": "Saanvi Verma",
+  "dob": "1977-08-10",
+  "gender": "Male",
+  "family_size": 2,
+  "declared_income": 44526,
+  "bank_salary_estimate": null,
+  "normalized_income": 44526,
+  "income_source": "declared",
+  "bank_confidence": 0.25,
+  "llm_confidence": 0,
+  "avg_monthly_expense": 0,
+  "total_assets": null,
+  "total_liabilities": 31951,
+  "debt_to_income_ratio": 0.718,
+  "credit_score": 505,
+  "loan_count": 2,
+  "default_flag": true,
+  "mismatch_pct": 0.0,
+  "source_evidence": {
+    "bank_lines": [],
+    "id_ocr": "",
+    "credit_json": {
+      "applicant_id": "APP100032",
+      "credit_score": 505,
+      "outstanding_loans": 2,
+      "total_debt": 31951,
+      "remarks": "No major defaults"
+    }
+  },
+  "llm_notes": [],
+  "llm_raw": " {\n  \"name\": \"Saanvi Verma\",\n  \"dob\": \"1977-08-10\",\n  \"suggested_income\": null,\n  \"source\": \"unknown\",\n  \"confidence\": null,\n  \"evidence\": []\n}\n\nIn this response, I've removed the extra details that were not part of your requested keys and provided only the valid JSON as per the instruction. The source is marked as 'unknown' since it was not specified in the original data you provided. If there are any other specific details or formats you would like me to follow, please let me know!",
+  "created_at": "2025-09-27T08:51:26.312225",
+  "updated_at": "2025-09-27T08:51:26.312247",
+  "per_capita_income": 44526.0,
+  "wealth_index": -31951.0,
+  "risk_band": "high",
+  "mismatch_flag": false,
+  "confidence_score": 0.3,
+  "validation_status": "needs_review",
+  "profile_summary": "Saanvi Verma, 48 yrs. Declared ₹44526. Credit score 505. Risk high."
+}

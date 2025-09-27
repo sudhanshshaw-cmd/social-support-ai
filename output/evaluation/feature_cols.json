@@ -1,0 +1,20 @@
+[
+  "age",
+  "declared_income",
+  "bank_salary_estimate",
+  "normalized_income",
+  "avg_monthly_expense",
+  "total_assets",
+  "total_liabilities",
+  "per_capita_income",
+  "wealth_index",
+  "debt_to_income_ratio",
+  "confidence_score",
+  "mismatch_pct",
+  "credit_score",
+  "loan_count",
+  "family_size",
+  "income_source",
+  "risk_band",
+  "gender"
+]

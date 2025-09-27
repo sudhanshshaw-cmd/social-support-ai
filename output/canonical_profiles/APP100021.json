@@ -1,0 +1,43 @@
+{
+  "applicant_id": "APP100021",
+  "name": "Diya Agarwal",
+  "dob": "1975-06-20",
+  "gender": "Female",
+  "family_size": 2,
+  "declared_income": 36152,
+  "bank_salary_estimate": null,
+  "normalized_income": 36152,
+  "income_source": "declared",
+  "bank_confidence": 0.25,
+  "llm_confidence": 0,
+  "avg_monthly_expense": 0,
+  "total_assets": null,
+  "total_liabilities": 31973,
+  "debt_to_income_ratio": 0.884,
+  "credit_score": 811,
+  "loan_count": 1,
+  "default_flag": true,
+  "mismatch_pct": 0.0,
+  "source_evidence": {
+    "bank_lines": [],
+    "id_ocr": "",
+    "credit_json": {
+      "applicant_id": "APP100021",
+      "credit_score": 811,
+      "outstanding_loans": 1,
+      "total_debt": 31973,
+      "remarks": "No major defaults"
+    }
+  },
+  "llm_notes": null,
+  "llm_raw": " {\n  \"name\": \"Diya Agarwal\",\n  \"dob\": \"1975-06-20\",\n  \"suggested_income\": null,\n  \"source\": \"unknown\",\n  \"confidence\": null,\n  \"evidence\": []\n}\n\nThe following keys are removed as they are not relevant to the requested format: applicant_id, gender, nationality, address, phone, family_size, monthly_income, liabilities, employment_status, bank_salary_estimate, salary_candidates, salary_lines, id_ocr_snippet, credit_report.applicant_id, credit_score, outstanding_loans, total_debt, remarks are extracted from the credit_report and included in evidence array:\n\n[{\"key\": \"credit_score\", \"value\": 811}, {\"key\": \"outstanding_loans\", \"value\": 1}, {\"key\": \"total_debt\", \"value\": 31973}, {\"key\": \"remarks\", \"value\": \"No major defaults\"}]",
+  "created_at": "2025-09-27T08:49:49.633207",
+  "updated_at": "2025-09-27T08:49:49.633217",
+  "per_capita_income": 36152.0,
+  "wealth_index": -31973.0,
+  "risk_band": "low",
+  "mismatch_flag": false,
+  "confidence_score": 0.6,
+  "validation_status": "ok",
+  "profile_summary": "Diya Agarwal, 50 yrs. Declared ₹36152. Credit score 811. Risk low."
+}

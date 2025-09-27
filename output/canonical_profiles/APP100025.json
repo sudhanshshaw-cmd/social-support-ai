@@ -1,0 +1,57 @@
+{
+  "applicant_id": "APP100025",
+  "name": "Maya Joshi",
+  "dob": "2016-12-11",
+  "gender": "Male",
+  "family_size": 4,
+  "declared_income": 8894,
+  "bank_salary_estimate": null,
+  "normalized_income": 8894,
+  "income_source": "declared",
+  "bank_confidence": 0.25,
+  "llm_confidence": 0,
+  "avg_monthly_expense": 0,
+  "total_assets": null,
+  "total_liabilities": 8557,
+  "debt_to_income_ratio": 0.962,
+  "credit_score": 744,
+  "loan_count": 0,
+  "default_flag": true,
+  "mismatch_pct": 0.0,
+  "source_evidence": {
+    "bank_lines": [],
+    "id_ocr": "",
+    "credit_json": {
+      "applicant_id": "APP100025",
+      "credit_score": 744,
+      "outstanding_loans": 0,
+      "total_debt": 8557,
+      "remarks": "No major defaults"
+    }
+  },
+  "llm_notes": [
+    {
+      "bank_salary_estimate": null,
+      "salary_candidates": [],
+      "salary_lines": [],
+      "id_ocr_snippet": "",
+      "credit_report": {
+        "applicant_id": "APP100025",
+        "credit_score": 744,
+        "outstanding_loans": 0,
+        "total_debt": 8557,
+        "remarks": "No major defaults"
+      }
+    }
+  ],
+  "llm_raw": " {\n  \"name\": \"Maya Joshi\",\n  \"dob\": \"2016-12-11\",\n  \"suggested_income\": null,\n  \"source\": \"declared\",\n  \"confidence\": null,\n  \"evidence\": [\n    {\n      \"bank_salary_estimate\": null,\n      \"salary_candidates\": [],\n      \"salary_lines\": [],\n      \"id_ocr_snippet\": \"\",\n      \"credit_report\": {\n        \"applicant_id\": \"APP100025\",\n        \"credit_score\": 744,\n        \"outstanding_loans\": 0,\n        \"total_debt\": 8557,\n        \"remarks\": \"No major defaults\"\n      }\n    }\n  ]\n}",
+  "created_at": "2025-09-27T08:50:23.130355",
+  "updated_at": "2025-09-27T08:50:23.130412",
+  "per_capita_income": 8894.0,
+  "wealth_index": -8557.0,
+  "risk_band": "low",
+  "mismatch_flag": false,
+  "confidence_score": 0.52,
+  "validation_status": "needs_review",
+  "profile_summary": "Maya Joshi, 8 yrs. Declared ₹8894. Credit score 744. Risk low."
+}

@@ -1,0 +1,57 @@
+{
+  "applicant_id": "APP100017",
+  "name": "Vihaan Shaw",
+  "dob": "1978-05-25",
+  "gender": "Female",
+  "family_size": 4,
+  "declared_income": null,
+  "bank_salary_estimate": null,
+  "normalized_income": null,
+  "income_source": null,
+  "bank_confidence": 0.25,
+  "llm_confidence": 0,
+  "avg_monthly_expense": 0,
+  "total_assets": null,
+  "total_liabilities": 11781,
+  "debt_to_income_ratio": null,
+  "credit_score": 419,
+  "loan_count": 5,
+  "default_flag": true,
+  "mismatch_pct": null,
+  "source_evidence": {
+    "bank_lines": [],
+    "id_ocr": "",
+    "credit_json": {
+      "applicant_id": "APP100017",
+      "credit_score": 419,
+      "outstanding_loans": 5,
+      "total_debt": 11781,
+      "remarks": "No major defaults"
+    }
+  },
+  "llm_notes": [
+    {
+      "bank_salary_estimate": null,
+      "salary_candidates": [],
+      "salary_lines": [],
+      "id_ocr_snippet": "",
+      "credit_report": {
+        "applicant_id": "APP100017",
+        "credit_score": 419,
+        "outstanding_loans": 5,
+        "total_debt": 11781,
+        "remarks": "No major defaults"
+      }
+    }
+  ],
+  "llm_raw": " {\n  \"name\": \"Vihaan Shaw\",\n  \"dob\": \"1978-05-25\",\n  \"suggested_income\": null,\n  \"source\": \"unknown\",\n  \"confidence\": null,\n  \"evidence\": [\n    {\n      \"bank_salary_estimate\": null,\n      \"salary_candidates\": [],\n      \"salary_lines\": [],\n      \"id_ocr_snippet\": \"\",\n      \"credit_report\": {\n        \"applicant_id\": \"APP100017\",\n        \"credit_score\": 419,\n        \"outstanding_loans\": 5,\n        \"total_debt\": 11781,\n        \"remarks\": \"No major defaults\"\n      }\n    }\n  ]\n}",
+  "created_at": "2025-09-27T08:49:12.009500",
+  "updated_at": "2025-09-27T08:49:12.009523",
+  "per_capita_income": null,
+  "wealth_index": -11781.0,
+  "risk_band": "high",
+  "mismatch_flag": false,
+  "confidence_score": 0.15,
+  "validation_status": "needs_review",
+  "profile_summary": "Vihaan Shaw, 47 yrs. No income evidence. Credit score 419. Risk high."
+}

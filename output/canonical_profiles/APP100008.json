@@ -1,0 +1,57 @@
+{
+  "applicant_id": "APP100008",
+  "name": "Rohan Mukherjee",
+  "dob": "2011-04-17",
+  "gender": "Other",
+  "family_size": 4,
+  "declared_income": null,
+  "bank_salary_estimate": null,
+  "normalized_income": null,
+  "income_source": null,
+  "bank_confidence": 0.25,
+  "llm_confidence": 0,
+  "avg_monthly_expense": 0,
+  "total_assets": null,
+  "total_liabilities": 9670,
+  "debt_to_income_ratio": null,
+  "credit_score": 351,
+  "loan_count": 2,
+  "default_flag": true,
+  "mismatch_pct": null,
+  "source_evidence": {
+    "bank_lines": [],
+    "id_ocr": "",
+    "credit_json": {
+      "applicant_id": "APP100008",
+      "credit_score": 351,
+      "outstanding_loans": 2,
+      "total_debt": 9670,
+      "remarks": "No major defaults"
+    }
+  },
+  "llm_notes": [
+    {
+      "bank_salary_estimate": null,
+      "salary_candidates": [],
+      "salary_lines": [],
+      "id_ocr_snippet": "",
+      "credit_report": {
+        "applicant_id": "APP100008",
+        "credit_score": 351,
+        "outstanding_loans": 2,
+        "total_debt": 9670,
+        "remarks": "No major defaults"
+      }
+    }
+  ],
+  "llm_raw": " {\n  \"name\": \"Rohan Mukherjee\",\n  \"dob\": \"2011-04-17\",\n  \"suggested_income\": null,\n  \"source\": \"unknown\",\n  \"confidence\": null,\n  \"evidence\": [\n    {\n      \"bank_salary_estimate\": null,\n      \"salary_candidates\": [],\n      \"salary_lines\": [],\n      \"id_ocr_snippet\": \"\",\n      \"credit_report\": {\n        \"applicant_id\": \"APP100008\",\n        \"credit_score\": 351,\n        \"outstanding_loans\": 2,\n        \"total_debt\": 9670,\n        \"remarks\": \"No major defaults\"\n      }\n    }\n  ]\n}",
+  "created_at": "2025-09-27T08:47:49.132235",
+  "updated_at": "2025-09-27T08:47:49.132247",
+  "per_capita_income": null,
+  "wealth_index": -9670.0,
+  "risk_band": "high",
+  "mismatch_flag": false,
+  "confidence_score": 0.15,
+  "validation_status": "needs_review",
+  "profile_summary": "Rohan Mukherjee, 14 yrs. No income evidence. Credit score 351. Risk high."
+}

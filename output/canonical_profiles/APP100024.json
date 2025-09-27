@@ -1,0 +1,57 @@
+{
+  "applicant_id": "APP100024",
+  "name": "Vivaan Iyer",
+  "dob": "1986-06-22",
+  "gender": "Other",
+  "family_size": 3,
+  "declared_income": 53713,
+  "bank_salary_estimate": null,
+  "normalized_income": 53713,
+  "income_source": "declared",
+  "bank_confidence": 0.25,
+  "llm_confidence": 0,
+  "avg_monthly_expense": 0,
+  "total_assets": null,
+  "total_liabilities": 63598,
+  "debt_to_income_ratio": 1.184,
+  "credit_score": 866,
+  "loan_count": 4,
+  "default_flag": true,
+  "mismatch_pct": 0.0,
+  "source_evidence": {
+    "bank_lines": [],
+    "id_ocr": "",
+    "credit_json": {
+      "applicant_id": "APP100024",
+      "credit_score": 866,
+      "outstanding_loans": 4,
+      "total_debt": 63598,
+      "remarks": "No major defaults"
+    }
+  },
+  "llm_notes": [
+    {
+      "bank_salary_estimate": null,
+      "salary_candidates": [],
+      "salary_lines": [],
+      "id_ocr_snippet": "",
+      "credit_report": {
+        "applicant_id": "APP100024",
+        "credit_score": 866,
+        "outstanding_loans": 4,
+        "total_debt": 63598,
+        "remarks": "No major defaults"
+      }
+    }
+  ],
+  "llm_raw": " {\n  \"name\": \"Vivaan Iyer\",\n  \"dob\": \"1986-06-22\",\n  \"suggested_income\": null,\n  \"source\": \"unknown\",\n  \"confidence\": null,\n  \"evidence\": [\n    {\n      \"bank_salary_estimate\": null,\n      \"salary_candidates\": [],\n      \"salary_lines\": [],\n      \"id_ocr_snippet\": \"\",\n      \"credit_report\": {\n        \"applicant_id\": \"APP100024\",\n        \"credit_score\": 866,\n        \"outstanding_loans\": 4,\n        \"total_debt\": 63598,\n        \"remarks\": \"No major defaults\"\n      }\n    }\n  ]\n}",
+  "created_at": "2025-09-27T08:50:14.064813",
+  "updated_at": "2025-09-27T08:50:14.064831",
+  "per_capita_income": 53713.0,
+  "wealth_index": -63598.0,
+  "risk_band": "low",
+  "mismatch_flag": false,
+  "confidence_score": 0.6,
+  "validation_status": "ok",
+  "profile_summary": "Vivaan Iyer, 39 yrs. Declared ₹53713. Credit score 866. Risk low."
+}
